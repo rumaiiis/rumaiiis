@@ -26,13 +26,9 @@ Rumais | Cyber Threat Detection Engineer
 
 ## `> profile`
 
-<table>
-  <tr>
-    <td>
-      <img width="280" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="cyber animation" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="100%" src="./assets/hacker-terminal.svg" alt="hacker terminal animation" />
+</p>
 
 Detection engineer focused on:
 
@@ -79,10 +75,6 @@ I convert attacker behavior and telemetry into practical detections, stronger vi
     <td><a href="https://tryhackme.com/p/rumais">tryhackme.com/p/rumais</a></td>
   </tr>
 </table>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=rumaiiis&theme=matrix&no-frame=true&no-bg=true&row=1&column=3" alt="trophies" />
-</p>
 
   </td>
     <td width="48%" valign="top">
